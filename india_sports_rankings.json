@@ -1,0 +1,2888 @@
+[
+    {
+        "Sport": "Sport",
+        "Format": "Format",
+        "Gender": "Gender",
+        "Rank": "Rank"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "T20",
+        "Gender": "Men",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "ODI",
+        "Gender": "Men",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "Test",
+        "Gender": "Men",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "ODI",
+        "Gender": "Women",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "T20",
+        "Gender": "Women",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Badminton",
+        "Format": "Singles",
+        "Gender": "Men",
+        "Rank": "30"
+    },
+    {
+        "Sport": "Badminton",
+        "Format": "Doubles",
+        "Gender": "Men",
+        "Rank": "16"
+    },
+    {
+        "Sport": "Badminton",
+        "Format": "Doubles",
+        "Gender": "Mixed",
+        "Rank": "24"
+    },
+    {
+        "Sport": "Badminton",
+        "Format": "Singles",
+        "Gender": "Women",
+        "Rank": "27"
+    },
+    {
+        "Sport": "Football",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "126"
+    },
+    {
+        "Sport": "Football",
+        "Format": "Standard",
+        "Gender": "Women",
+        "Rank": "69"
+    },
+    {
+        "Sport": "Tennis",
+        "Format": "Singles",
+        "Gender": "Men",
+        "Rank": "98"
+    },
+    {
+        "Sport": "Tennis",
+        "Format": "Doubles",
+        "Gender": "Men",
+        "Rank": "15"
+    },
+    {
+        "Sport": "Tennis",
+        "Format": "Singles",
+        "Gender": "Women",
+        "Rank": "284"
+    },
+    {
+        "Sport": "Tennis",
+        "Format": "Doubles",
+        "Gender": "Women",
+        "Rank": "146"
+    },
+    {
+        "Sport": "Hockey",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Hockey",
+        "Format": "Standard",
+        "Gender": "Women",
+        "Rank": "9"
+    },
+    {
+        "Sport": "Volleyball",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "70"
+    },
+    {
+        "Sport": "Volleyball",
+        "Format": "Standard",
+        "Gender": "Women",
+        "Rank": "59"
+    },
+    {
+        "Sport": "Basketball",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "78"
+    },
+    {
+        "Sport": "Basketball",
+        "Format": "Standard",
+        "Gender": "Women",
+        "Rank": "77"
+    },
+    {
+        "Sport": "Baseball",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "69"
+    },
+    {
+        "Sport": "Baseball",
+        "Format": "Standard",
+        "Gender": "Women",
+        "Rank": "15"
+    },
+    {
+        "Sport": "Softball",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "26"
+    },
+    {
+        "Sport": "Softball",
+        "Format": "Standard",
+        "Gender": "Women",
+        "Rank": "55"
+    },
+    {
+        "Sport": "Rugby",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "89"
+    },
+    {
+        "Sport": "Rugby",
+        "Format": "Standard",
+        "Gender": "Women",
+        "Rank": "50"
+    },
+    {
+        "Sport": "Chess",
+        "Format": "Classical",
+        "Gender": "Men",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Chess",
+        "Format": "Rapid",
+        "Gender": "Men",
+        "Rank": "13"
+    },
+    {
+        "Sport": "Chess",
+        "Format": "Blitz",
+        "Gender": "Men",
+        "Rank": "13"
+    },
+    {
+        "Sport": "Chess",
+        "Format": "Classical",
+        "Gender": "Women",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Chess",
+        "Format": "Rapid",
+        "Gender": "Women",
+        "Rank": "10"
+    },
+    {
+        "Sport": "Chess",
+        "Format": "Blitz",
+        "Gender": "Women",
+        "Rank": "11"
+    },
+    {
+        "Sport": "Snooker",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "70"
+    },
+    {
+        "Sport": "Billiards",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "12"
+    },
+    {
+        "Sport": "Squash",
+        "Format": "Singles",
+        "Gender": "Men",
+        "Rank": "32"
+    },
+    {
+        "Sport": "Squash",
+        "Format": "Singles",
+        "Gender": "Women",
+        "Rank": "68"
+    },
+    {
+        "Sport": "Table Tennis",
+        "Format": "Singles",
+        "Gender": "Men",
+        "Rank": "38"
+    },
+    {
+        "Sport": "Table Tennis",
+        "Format": "Doubles",
+        "Gender": "Men",
+        "Rank": "10"
+    },
+    {
+        "Sport": "Table Tennis",
+        "Format": "Singles",
+        "Gender": "Women",
+        "Rank": "22"
+    },
+    {
+        "Sport": "Table Tennis",
+        "Format": "Doubles",
+        "Gender": "Women",
+        "Rank": "12"
+    },
+    {
+        "Sport": "Golf",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "215"
+    },
+    {
+        "Sport": "Kabaddi",
+        "Format": "Standard",
+        "Gender": "Men",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Badminton",
+        "Format": "Doubles",
+        "Gender": "Women",
+        "Rank": "8"
+    },
+    {
+        "Sport": "Table Tennis",
+        "Format": "Doubles",
+        "Gender": "Mixed",
+        "Rank": "14"
+    },
+    {
+        "Sport": "Hero",
+        "Format": "Instagram Followers",
+        "Gender": "Insta Profile",
+        "Rank": "Rank"
+    },
+    {
+        "Sport": "Mohan Babu",
+        "Format": "10.6 K",
+        "Gender": "Mohan Babu Insta Profile",
+        "Rank": "57"
+    },
+    {
+        "Sport": "Nara Rohith",
+        "Format": "37.1 K",
+        "Gender": "Nara Rohith Insta Profile",
+        "Rank": "55"
+    },
+    {
+        "Sport": "Srikanth",
+        "Format": "134 K",
+        "Gender": "Srikanth Insta Profile",
+        "Rank": "52"
+    },
+    {
+        "Sport": "Sumanth Prabhas",
+        "Format": "367 K",
+        "Gender": "Sumanth Prabhas Insta Profile",
+        "Rank": "45"
+    },
+    {
+        "Sport": "Sumanth",
+        "Format": "169 K",
+        "Gender": "Sumanth Insta Profile",
+        "Rank": "51"
+    },
+    {
+        "Sport": "Nag Ashwin",
+        "Format": "349 K",
+        "Gender": "Nag Ashwin Insta Profile",
+        "Rank": "42"
+    },
+    {
+        "Sport": "Sree Vishnu",
+        "Format": "362 K",
+        "Gender": "Sree Vishnu Insta Profile",
+        "Rank": "46"
+    },
+    {
+        "Sport": "Allari Naresh",
+        "Format": "310 K",
+        "Gender": "Allari Naresh Insta Profile",
+        "Rank": "44"
+    },
+    {
+        "Sport": "Varun Sandesh",
+        "Format": "340 K",
+        "Gender": "Varun Sandesh Insta Profile",
+        "Rank": "43"
+    },
+    {
+        "Sport": "Raj Tarun",
+        "Format": "422 K",
+        "Gender": "Raj Tarun Insta Profile",
+        "Rank": "40"
+    },
+    {
+        "Sport": "Sunil",
+        "Format": "416 K",
+        "Gender": "Sunil Insta Profile",
+        "Rank": "41"
+    },
+    {
+        "Sport": "Gopichand",
+        "Format": "543 K",
+        "Gender": "Gopichand Insta Profile",
+        "Rank": "39"
+    },
+    {
+        "Sport": "Jagapathi Babu",
+        "Format": "998 K",
+        "Gender": "Jagapathi Babu Insta Profile",
+        "Rank": "29"
+    },
+    {
+        "Sport": "Vaishnav Tej",
+        "Format": "632 K",
+        "Gender": "Vaishnav Tej Insta Profile",
+        "Rank": "38"
+    },
+    {
+        "Sport": "Satyadev",
+        "Format": "674 K",
+        "Gender": "Satyadev Insta Profile",
+        "Rank": "37"
+    },
+    {
+        "Sport": "Manchu Manoj",
+        "Format": "734 K",
+        "Gender": "Manchu Manoj Insta Profile",
+        "Rank": "35"
+    },
+    {
+        "Sport": "Sudheer Babu",
+        "Format": "786 K",
+        "Gender": "Sudheer Babu Insta Profile",
+        "Rank": "34"
+    },
+    {
+        "Sport": "Priyadarshi",
+        "Format": "940 K",
+        "Gender": "Priyadarshi Insta Profile",
+        "Rank": "30"
+    },
+    {
+        "Sport": "Naga Shourya",
+        "Format": "923 K",
+        "Gender": "Naga Shourya Insta Profile",
+        "Rank": "31"
+    },
+    {
+        "Sport": "Siddharth",
+        "Format": "1.6 M",
+        "Gender": "Siddharth Insta Profile",
+        "Rank": "22"
+    },
+    {
+        "Sport": "Allu Sirish",
+        "Format": "1 M",
+        "Gender": "Allu Sirish Insta Profile",
+        "Rank": "28"
+    },
+    {
+        "Sport": "Adivi Sesh",
+        "Format": "1.1 M",
+        "Gender": "Adivi Sesh Insta Profile",
+        "Rank": "26"
+    },
+    {
+        "Sport": "Vishwak Sen",
+        "Format": "1.4 M",
+        "Gender": "Vishwak Sen Insta Profile",
+        "Rank": "24"
+    },
+    {
+        "Sport": "Bellamkonda Sreenivas",
+        "Format": "1.1 M",
+        "Gender": "Bellamkonda Sreenivas Insta Profile",
+        "Rank": "27"
+    },
+    {
+        "Sport": "Sharwanand",
+        "Format": "1.4 M",
+        "Gender": "Sharwanand Insta Profile",
+        "Rank": "23"
+    },
+    {
+        "Sport": "Venkatesh Daggubati",
+        "Format": "1.7 M",
+        "Gender": "Venkatesh Insta Profile",
+        "Rank": "21"
+    },
+    {
+        "Sport": "Nikhil Siddhartha",
+        "Format": "2.2 M",
+        "Gender": "Nikhil Siddhartha Insta Profile",
+        "Rank": "20"
+    },
+    {
+        "Sport": "Pawan Kalyan",
+        "Format": "3.8 M",
+        "Gender": "Pawan Kalyan Insta Profile",
+        "Rank": "13"
+    },
+    {
+        "Sport": "Sundeep Kishan",
+        "Format": "3.7 M",
+        "Gender": "Sundeep Kishan Insta Profile",
+        "Rank": "14"
+    },
+    {
+        "Sport": "Ravi Teja",
+        "Format": "2.3 M",
+        "Gender": "Ravi Teja Insta Profile",
+        "Rank": "19"
+    },
+    {
+        "Sport": "Nithiin",
+        "Format": "2.7 M",
+        "Gender": "Nithiin Insta Profile",
+        "Rank": "18"
+    },
+    {
+        "Sport": "Manchu Vishnu",
+        "Format": "8.4 M",
+        "Gender": "Manchu Vishnu Insta Profile",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Chiranjeevi",
+        "Format": "3.3 M",
+        "Gender": "Chiranjeevi Insta Profile",
+        "Rank": "16"
+    },
+    {
+        "Sport": "Sai Dharam Tej",
+        "Format": "3.8 M",
+        "Gender": "Sai Dharam Tej Insta Profile",
+        "Rank": "12"
+    },
+    {
+        "Sport": "Varun Tej Konidela",
+        "Format": "3.6 M",
+        "Gender": "Varun Tej Insta Profile",
+        "Rank": "15"
+    },
+    {
+        "Sport": "Akhil Akkineni",
+        "Format": "3.1 M",
+        "Gender": "Akhil Akkineni Insta Profile",
+        "Rank": "17"
+    },
+    {
+        "Sport": "Ram Pothineni",
+        "Format": "4 M",
+        "Gender": "Ram Pothineni Insta Profile",
+        "Rank": "11"
+    },
+    {
+        "Sport": "Rana Daggubati",
+        "Format": "5.2 M",
+        "Gender": "Rana Daggubati Insta Profile",
+        "Rank": "10"
+    },
+    {
+        "Sport": "Nani",
+        "Format": "7.8 M",
+        "Gender": "Nani Insta Profile",
+        "Rank": "8"
+    },
+    {
+        "Sport": "Jr NTR",
+        "Format": "8 M",
+        "Gender": "Jr NTR Insta Profile",
+        "Rank": "7"
+    },
+    {
+        "Sport": "Naga Chaitanya",
+        "Format": "7.4 M",
+        "Gender": "Naga Chaitanya Insta Profile",
+        "Rank": "9"
+    },
+    {
+        "Sport": "Prabhas Raju",
+        "Format": "13 M",
+        "Gender": "Prabhas Insta Profile",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Mahesh Babu",
+        "Format": "14.5 M",
+        "Gender": "Mahesh Babu Insta Profile",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Ram Charan",
+        "Format": "26 M",
+        "Gender": "Ram Charan Insta Profile",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Vijay Deverakonda",
+        "Format": "22 M",
+        "Gender": "Vijay Insta Profile",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Allu Arjun",
+        "Format": "28.6",
+        "Gender": "Allu Arjun Insta Profile",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Naveen Polishetty",
+        "Format": "1.2 M",
+        "Gender": "Naveen Polishetty Insta Profile",
+        "Rank": "25"
+    },
+    {
+        "Sport": "Kartikeya",
+        "Format": "895 K",
+        "Gender": "Kartikeya Insta Profile",
+        "Rank": "32"
+    },
+    {
+        "Sport": "Navdeep",
+        "Format": "804 K",
+        "Gender": "Navdeep Insta Profile",
+        "Rank": "33"
+    },
+    {
+        "Sport": "Nandu",
+        "Format": "711 K",
+        "Gender": "Nandu Insta Profile",
+        "Rank": "36"
+    },
+    {
+        "Sport": "Aadi",
+        "Format": "291 K",
+        "Gender": "Aadi Insta Profile",
+        "Rank": "48"
+    },
+    {
+        "Sport": "Tharun",
+        "Format": "206 K",
+        "Gender": "Tharun Insta Profile",
+        "Rank": "50"
+    },
+    {
+        "Sport": "Akash Puri",
+        "Format": "209 K",
+        "Gender": "Akash Puri Insta Profile",
+        "Rank": "49"
+    },
+    {
+        "Sport": "Aadarsh",
+        "Format": "69.1 K",
+        "Gender": "Aadarsh Insta Profile",
+        "Rank": "53"
+    },
+    {
+        "Sport": "Kalyan Ram Nandamuri",
+        "Format": "45.9 K",
+        "Gender": "Kalyan Ram Insta Profile",
+        "Rank": "54"
+    },
+    {
+        "Sport": "Ganesh Bellamkonda",
+        "Format": "14.2 K",
+        "Gender": "Ganesh Insta Profile",
+        "Rank": "56"
+    },
+    {
+        "Sport": "Ashwin Babu",
+        "Format": "302 K",
+        "Gender": "Ashwin Insta Profile",
+        "Rank": "47"
+    },
+    {
+        "Sport": "Heroine",
+        "Format": "Instagram Followers",
+        "Gender": "Insta Profile",
+        "Rank": "Rank"
+    },
+    {
+        "Sport": "Saloni Aswani",
+        "Format": "62.7 K",
+        "Gender": "Saloni Aswani Insta Profile",
+        "Rank": "79"
+    },
+    {
+        "Sport": "Sakshi Chaudhary",
+        "Format": "184 K",
+        "Gender": "Sakshi Chaudhary Insta Profile",
+        "Rank": "77"
+    },
+    {
+        "Sport": "Abhinayashree",
+        "Format": "206 K",
+        "Gender": "Abhinayashree Insta Profile",
+        "Rank": "76"
+    },
+    {
+        "Sport": "Sonia Agarwal",
+        "Format": "332 K",
+        "Gender": "Sonia Agarwal Insta Profile",
+        "Rank": "73"
+    },
+    {
+        "Sport": "Amala Akkineni",
+        "Format": "257 K",
+        "Gender": "Amala Akkineni Insta Profile",
+        "Rank": "75"
+    },
+    {
+        "Sport": "Isha Chawla",
+        "Format": "307 K",
+        "Gender": "Isha Chawla Insta Profile",
+        "Rank": "74"
+    },
+    {
+        "Sport": "Priya Vadlamani",
+        "Format": "364 K",
+        "Gender": "Priya Vadlamani Insta Profile",
+        "Rank": "72"
+    },
+    {
+        "Sport": "Rambha",
+        "Format": "796 K",
+        "Gender": "Rambha Insta Profile",
+        "Rank": "69"
+    },
+    {
+        "Sport": "Sridevi Vijaykumar",
+        "Format": "972 K",
+        "Gender": "Sridevi Vijaykumar Insta Profile",
+        "Rank": "67"
+    },
+    {
+        "Sport": "Meenakshi Dixit",
+        "Format": "1.0 M",
+        "Gender": "Meenakshi Dixit Insta Profile",
+        "Rank": "63"
+    },
+    {
+        "Sport": "Renu Desai",
+        "Format": "1.1 M",
+        "Gender": "Renu Desai Insta Profile",
+        "Rank": "59"
+    },
+    {
+        "Sport": "Faria Abdullah",
+        "Format": "1.0 M",
+        "Gender": "Faria Abdullah Insta Profile",
+        "Rank": "64"
+    },
+    {
+        "Sport": "Sneha Ullal",
+        "Format": "1.0 M",
+        "Gender": "Sneha Ullal Insta Profile",
+        "Rank": "65"
+    },
+    {
+        "Sport": "Meenakshi Chaudhary",
+        "Format": "2.3 M",
+        "Gender": "Meenakshi Chaudhary Insta Profile",
+        "Rank": "38"
+    },
+    {
+        "Sport": "Nayanthara",
+        "Format": "9.8 M",
+        "Gender": "Nayanthara Insta Profile",
+        "Rank": "16"
+    },
+    {
+        "Sport": "Meera Jasmine",
+        "Format": "1.0 M",
+        "Gender": "Meera Jasmine Insta Profile",
+        "Rank": "61"
+    },
+    {
+        "Sport": "Monal Gajjar",
+        "Format": "944 K",
+        "Gender": "Monal Gajjar Insta Profile",
+        "Rank": "68"
+    },
+    {
+        "Sport": "Asin",
+        "Format": "1.0 M",
+        "Gender": "Asin Insta Profile",
+        "Rank": "62"
+    },
+    {
+        "Sport": "Bindu Madhavi",
+        "Format": "1.1 M",
+        "Gender": "Bindu Madhavi Insta Profile",
+        "Rank": "60"
+    },
+    {
+        "Sport": "Sridevi",
+        "Format": "999 K",
+        "Gender": "Sridevi Insta Profile",
+        "Rank": "66"
+    },
+    {
+        "Sport": "Divi Vadthya",
+        "Format": "1.2 M",
+        "Gender": "Divi Vadthya Insta Profile",
+        "Rank": "58"
+    },
+    {
+        "Sport": "Abhirami",
+        "Format": "1.2 M",
+        "Gender": "Abhirami Insta Profile",
+        "Rank": "57"
+    },
+    {
+        "Sport": "Priya Anand",
+        "Format": "1.2 M",
+        "Gender": "Priya Anand Insta Profile",
+        "Rank": "55"
+    },
+    {
+        "Sport": "Ramya Krishnan",
+        "Format": "1.8 M",
+        "Gender": "Ramya Krishnan Insta Profile",
+        "Rank": "46"
+    },
+    {
+        "Sport": "Nisha Agarwal",
+        "Format": "1.2 M",
+        "Gender": "Nisha Agarwal Insta Profile",
+        "Rank": "56"
+    },
+    {
+        "Sport": "Meena Sagar",
+        "Format": "1.7 M",
+        "Gender": "Meena Sagar Insta Profile",
+        "Rank": "48"
+    },
+    {
+        "Sport": "Anasuya Bharadwaj",
+        "Format": "1.6 M",
+        "Gender": "Anasuya Bharadwaj Insta Profile",
+        "Rank": "51"
+    },
+    {
+        "Sport": "Bhumika Chawla",
+        "Format": "1.7 M",
+        "Gender": "Bhumika Chawla Insta Profile",
+        "Rank": "49"
+    },
+    {
+        "Sport": "Varsha Bollamma",
+        "Format": "1.7 M",
+        "Gender": "Varsha Bollamma Insta Profile",
+        "Rank": "50"
+    },
+    {
+        "Sport": "Priyamani",
+        "Format": "2.3 M",
+        "Gender": "Priyamani Insta Profile",
+        "Rank": "37"
+    },
+    {
+        "Sport": "Hebah Patel",
+        "Format": "1.8 M",
+        "Gender": "Hebah Patel Insta Profile",
+        "Rank": "47"
+    },
+    {
+        "Sport": "Sneha Prasanna",
+        "Format": "2.2 M",
+        "Gender": "Sneha Prasanna Insta Profile",
+        "Rank": "40"
+    },
+    {
+        "Sport": "Catherine Tresa",
+        "Format": "1.9 M",
+        "Gender": "Catherine Tresa Insta Profile",
+        "Rank": "45"
+    },
+    {
+        "Sport": "Anjali",
+        "Format": "2.0 M",
+        "Gender": "Anjali Insta Profile",
+        "Rank": "44"
+    },
+    {
+        "Sport": "Anu Emmanuel",
+        "Format": "2.0 M",
+        "Gender": "Anu Emmanuel Insta Profile",
+        "Rank": "43"
+    },
+    {
+        "Sport": "Shalini Pandey",
+        "Format": "2.1 M",
+        "Gender": "Shalini Pandey Insta Profile",
+        "Rank": "42"
+    },
+    {
+        "Sport": "Ritu Varma",
+        "Format": "2.2 M",
+        "Gender": "Ritu Varma Insta Profile",
+        "Rank": "39"
+    },
+    {
+        "Sport": "Regina Cassandra",
+        "Format": "2.2 M",
+        "Gender": "Regina Cassandra Insta Profile",
+        "Rank": "41"
+    },
+    {
+        "Sport": "Shraddha Das",
+        "Format": "2.9 M",
+        "Gender": "Shraddha Das Insta Profile",
+        "Rank": "35"
+    },
+    {
+        "Sport": "Aishwarya Rajesh",
+        "Format": "3.2 M",
+        "Gender": "Aishwarya Rajesh Insta Profile",
+        "Rank": "33"
+    },
+    {
+        "Sport": "Lavanya Tripathi",
+        "Format": "3.6 M",
+        "Gender": "Lavanya Tripathi Insta Profile",
+        "Rank": "32"
+    },
+    {
+        "Sport": "Mehreen Pirzada",
+        "Format": "3.2 M",
+        "Gender": "Mehreen Pirzada Insta Profile",
+        "Rank": "34"
+    },
+    {
+        "Sport": "Megha Akash",
+        "Format": "4.0 M",
+        "Gender": "Megha Akash Insta Profile",
+        "Rank": "31"
+    },
+    {
+        "Sport": "Nivetha Pethuraj",
+        "Format": "4.1 M",
+        "Gender": "Nivetha Pethuraj Insta Profile",
+        "Rank": "30"
+    },
+    {
+        "Sport": "Payal Rajput",
+        "Format": "4.2 M",
+        "Gender": "Payal Rajput Insta Profile",
+        "Rank": "29"
+    },
+    {
+        "Sport": "Sonali Bendre",
+        "Format": "4.6 M",
+        "Gender": "Sonali Bendre Insta Profile",
+        "Rank": "28"
+    },
+    {
+        "Sport": "Shriya Saran",
+        "Format": "4.6 M",
+        "Gender": "Shriya Saran Insta Profile",
+        "Rank": "27"
+    },
+    {
+        "Sport": "Nithya Menen",
+        "Format": "4.7 M",
+        "Gender": "Nithya Menen Insta Profile",
+        "Rank": "26"
+    },
+    {
+        "Sport": "Sonal Chauhan",
+        "Format": "7.9 M",
+        "Gender": "Sonal Chauhan Insta Profile",
+        "Rank": "20"
+    },
+    {
+        "Sport": "Hansika Motwani",
+        "Format": "6.9 M",
+        "Gender": "Hansika Motwani Insta Profile",
+        "Rank": "25"
+    },
+    {
+        "Sport": "Krithi Shetty",
+        "Format": "8.8 M",
+        "Gender": "Krithi Shetty Insta Profile",
+        "Rank": "17"
+    },
+    {
+        "Sport": "Trisha Krishnan",
+        "Format": "7.5 M",
+        "Gender": "Trisha Krishnan Insta Profile",
+        "Rank": "21"
+    },
+    {
+        "Sport": "Anushka Shetty",
+        "Format": "7.0 M",
+        "Gender": "Anushka Shetty Insta Profile",
+        "Rank": "24"
+    },
+    {
+        "Sport": "Nivetha Thomas",
+        "Format": "7.1 M",
+        "Gender": "Nivetha Thomas Insta Profile",
+        "Rank": "23"
+    },
+    {
+        "Sport": "Nazriya Nazim",
+        "Format": "8.4 M",
+        "Gender": "Nazriya Nazim Insta Profile",
+        "Rank": "19"
+    },
+    {
+        "Sport": "Sai Pallavi",
+        "Format": "10.2 M",
+        "Gender": "Sai Pallavi Insta Profile",
+        "Rank": "15"
+    },
+    {
+        "Sport": "Raashii Khanna",
+        "Format": "11.5 M",
+        "Gender": "Raashii Khanna Insta Profile",
+        "Rank": "14"
+    },
+    {
+        "Sport": "Genelia D'Souza",
+        "Format": "14.5 M",
+        "Gender": "Genelia D'Souza Insta Profile",
+        "Rank": "13"
+    },
+    {
+        "Sport": "Anupama Parameswaran",
+        "Format": "16.2 M",
+        "Gender": "Anupama Parameswaran Insta Profile",
+        "Rank": "11"
+    },
+    {
+        "Sport": "Keerthy Suresh",
+        "Format": "18.5 M",
+        "Gender": "Keerthy Suresh Insta Profile",
+        "Rank": "10"
+    },
+    {
+        "Sport": "Ileana D'Cruz",
+        "Format": "16.0 M",
+        "Gender": "Ileana D'Cruz Insta Profile",
+        "Rank": "12"
+    },
+    {
+        "Sport": "Taapsee Pannu",
+        "Format": "20.7 M",
+        "Gender": "Taapsee Pannu Insta Profile",
+        "Rank": "9"
+    },
+    {
+        "Sport": "Tamannaah Bhatia",
+        "Format": "27.9 M",
+        "Gender": "Tamannaah Bhatia Insta Profile",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Rakul Preet Singh",
+        "Format": "23.7 M",
+        "Gender": "Rakul Preet Singh Insta Profile",
+        "Rank": "8"
+    },
+    {
+        "Sport": "Shruti Haasan",
+        "Format": "24.1 M",
+        "Gender": "Shruti Haasan Insta Profile",
+        "Rank": "7"
+    },
+    {
+        "Sport": "Pooja Hegde",
+        "Format": "27.6 M",
+        "Gender": "Pooja Hegde Insta Profile",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Kajal Aggarwal",
+        "Format": "26.8 M",
+        "Gender": "Kajal Aggarwal Insta Profile",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Nidhhi Agerwal",
+        "Format": "30.2 M",
+        "Gender": "Nidhhi Agerwal Insta Profile",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Samantha Ruth Prabhu",
+        "Format": "36.7 M",
+        "Gender": "Samantha Ruth Prabhu Insta Profile",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Rashmika Mandanna",
+        "Format": "45.2 M",
+        "Gender": "Rashmika Mandanna Insta Profile",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Sreeleela",
+        "Format": "8.7 M",
+        "Gender": "Sreeleela Insta Profile",
+        "Rank": "18"
+    },
+    {
+        "Sport": "Ananya Nagalla",
+        "Format": "1.5 M",
+        "Gender": "Ananya Nagalla Insta Profile",
+        "Rank": "52"
+    },
+    {
+        "Sport": "Vaishnavi Chaitanya",
+        "Format": "1.5 M",
+        "Gender": "Vaishnavi Chaitanya Insta Profile",
+        "Rank": "53"
+    },
+    {
+        "Sport": "Neha Shetty",
+        "Format": "1.4 M",
+        "Gender": "Neha Shetty Insta Profile",
+        "Rank": "54"
+    },
+    {
+        "Sport": "Sobhita Dhulipala",
+        "Format": "7.1 M",
+        "Gender": "Sobhita Dhulipala Insta Profile",
+        "Rank": "22"
+    },
+    {
+        "Sport": "Niharika Konidela",
+        "Format": "2.4 M",
+        "Gender": "Niharika Konidela Insta Profile",
+        "Rank": "36"
+    },
+    {
+        "Sport": "Swathi",
+        "Format": "731 K",
+        "Gender": "Swathi Insta Profile",
+        "Rank": "70"
+    },
+    {
+        "Sport": "Sai Dhanshika",
+        "Format": "582 K",
+        "Gender": "Sai Dhanshika Insta Profile",
+        "Rank": "71"
+    },
+    {
+        "Sport": "Sayali Bhagat",
+        "Format": "147 K",
+        "Gender": "Sayali Bhagat Insta Profile",
+        "Rank": "78"
+    },
+    {
+        "Sport": "IPL Team",
+        "Format": "Instagram Followers",
+        "Gender": "Insta Profile",
+        "Rank": "Rank"
+    },
+    {
+        "Sport": "Lucknow Super Gaints (LSG)",
+        "Format": "3.3 M",
+        "Gender": "LSG Insta Page",
+        "Rank": "10"
+    },
+    {
+        "Sport": "Punjab Kings (PBKS)",
+        "Format": "3.4 M",
+        "Gender": "Punjab Kings Insta Page",
+        "Rank": "9"
+    },
+    {
+        "Sport": "Rajasthan Royals (RR)",
+        "Format": "4.52 M",
+        "Gender": "Rajasthan Royals Insta Page",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Delhi Capitals (DC)",
+        "Format": "4.0 M",
+        "Gender": "Delhi Capitals Insta Page",
+        "Rank": "8"
+    },
+    {
+        "Sport": "Sunrisers Hyderabad (SRH)",
+        "Format": "4.51 M",
+        "Gender": "SRH Insta Page",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Gujarat Titans (GT)",
+        "Format": "4.2 M",
+        "Gender": "Gujarat Titans Insta Page",
+        "Rank": "7"
+    },
+    {
+        "Sport": "Kolkata Knight Riders (KKR)",
+        "Format": "6.5 M",
+        "Gender": "KKR Insta Page",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Royal Challengers Bangalore (RCB)",
+        "Format": "15.9 M",
+        "Gender": "RCB Insta Page",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Mumbai Indians (MI)",
+        "Format": "14.8 M",
+        "Gender": "Mumbai Indians Insta Page",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Chennai Super Kings (CSK)",
+        "Format": "16.6 M",
+        "Gender": "CSK Insta Page",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Sport",
+        "Format": "Format",
+        "Gender": "Player",
+        "Rank": "Rank"
+    },
+    {
+        "Sport": "Badminton",
+        "Format": "Singles",
+        "Gender": "Lakshya Sen",
+        "Rank": "12"
+    },
+    {
+        "Sport": "Badminton",
+        "Format": "Doubles",
+        "Gender": "Satwiksairaj Rankireddy, Chirag Shetty",
+        "Rank": "9"
+    },
+    {
+        "Sport": "Tennis",
+        "Format": "Singles",
+        "Gender": "Sumit Nagal",
+        "Rank": "98"
+    },
+    {
+        "Sport": "Tennis",
+        "Format": "Doubles",
+        "Gender": "Rohan Bopanna",
+        "Rank": "15"
+    },
+    {
+        "Sport": "Snooker",
+        "Format": "Standard",
+        "Gender": "Ishpreet Singh Chadha",
+        "Rank": "70"
+    },
+    {
+        "Sport": "Billiards",
+        "Format": "Standard",
+        "Gender": "Dhruv Sitwala",
+        "Rank": "8"
+    },
+    {
+        "Sport": "Squash",
+        "Format": "Singles",
+        "Gender": "Ramit Tandon",
+        "Rank": "32"
+    },
+    {
+        "Sport": "Table Tennis",
+        "Format": "Singles",
+        "Gender": "Sharath Achanta",
+        "Rank": "38"
+    },
+    {
+        "Sport": "Table Tennis",
+        "Format": "Doubles",
+        "Gender": "Manav Vikash Thakkar, Manush Utpalbhai Shah",
+        "Rank": "10"
+    },
+    {
+        "Sport": "Chess",
+        "Format": "Classical",
+        "Gender": "Arjun Erigaisi",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Chess",
+        "Format": "Rapid",
+        "Gender": "Viswanathan Anand",
+        "Rank": "13"
+    },
+    {
+        "Sport": "Chess",
+        "Format": "Blitz",
+        "Gender": "Viswanathan Anand",
+        "Rank": "13"
+    },
+    {
+        "Sport": "Golf",
+        "Format": "Standard",
+        "Gender": "Shubhankar Sharma",
+        "Rank": "215"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "T20 (Batter)",
+        "Gender": "Tilak Varma",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "T20 (Allrounder)",
+        "Gender": "Hardik Pandya",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "T20 (Bowler)",
+        "Gender": "Ravi Bishnoi",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "ODI (Batter)",
+        "Gender": "Rohit Sharma",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "ODI (Bowler)",
+        "Gender": "Kuldeep Yadav",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "ODI (Allrounder)",
+        "Gender": "Ravindra Jadeja",
+        "Rank": "12"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "Test (Batter)",
+        "Gender": "Yashasvi Jaiswal",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "Test (Bowler)",
+        "Gender": "Jasprit Bumrah",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Cricket",
+        "Format": "Test (Allrounder)",
+        "Gender": "Ravindra Jadeja",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Athletics",
+        "Format": "Javelin Throw",
+        "Gender": "Neeraj Chopra",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Country",
+        "Format": "Gold",
+        "Gender": "Silver",
+        "Rank": "Bronze"
+    },
+    {
+        "Sport": "China",
+        "Format": "201",
+        "Gender": "111",
+        "Rank": "71"
+    },
+    {
+        "Sport": "South Korea",
+        "Format": "42",
+        "Gender": "59",
+        "Rank": "89"
+    },
+    {
+        "Sport": "Japan",
+        "Format": "52",
+        "Gender": "67",
+        "Rank": "69"
+    },
+    {
+        "Sport": "Kazakhstan",
+        "Format": "10",
+        "Gender": "22",
+        "Rank": "48"
+    },
+    {
+        "Sport": "Iran",
+        "Format": "13",
+        "Gender": "21",
+        "Rank": "20"
+    },
+    {
+        "Sport": "India",
+        "Format": "28",
+        "Gender": "38",
+        "Rank": "41"
+    },
+    {
+        "Sport": "Chinese Taipei",
+        "Format": "19",
+        "Gender": "20",
+        "Rank": "28"
+    },
+    {
+        "Sport": "Thailand",
+        "Format": "12",
+        "Gender": "14",
+        "Rank": "32"
+    },
+    {
+        "Sport": "Uzbekistan",
+        "Format": "22",
+        "Gender": "18",
+        "Rank": "31"
+    },
+    {
+        "Sport": "Hong Kong",
+        "Format": "8",
+        "Gender": "16",
+        "Rank": "29"
+    },
+    {
+        "Sport": "North Korea",
+        "Format": "11",
+        "Gender": "18",
+        "Rank": "10"
+    },
+    {
+        "Sport": "Vietnam",
+        "Format": "3",
+        "Gender": "5",
+        "Rank": "19"
+    },
+    {
+        "Sport": "Malaysia",
+        "Format": "6",
+        "Gender": "8",
+        "Rank": "18"
+    },
+    {
+        "Sport": "Singapore",
+        "Format": "3",
+        "Gender": "6",
+        "Rank": "7"
+    },
+    {
+        "Sport": "Mongolia",
+        "Format": "3",
+        "Gender": "5",
+        "Rank": "13"
+    },
+    {
+        "Sport": "Indonesia",
+        "Format": "7",
+        "Gender": "11",
+        "Rank": "18"
+    },
+    {
+        "Sport": "Bahrain",
+        "Format": "12",
+        "Gender": "3",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Philippines",
+        "Format": "4",
+        "Gender": "2",
+        "Rank": "12"
+    },
+    {
+        "Sport": "Qatar",
+        "Format": "5",
+        "Gender": "6",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Kuwait",
+        "Format": "3",
+        "Gender": "4",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Saudi Arabia",
+        "Format": "4",
+        "Gender": "2",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Macau",
+        "Format": "1",
+        "Gender": "3",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Kyrgyzstan",
+        "Format": "4",
+        "Gender": "2",
+        "Rank": "9"
+    },
+    {
+        "Sport": "Turkmenistan",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Pakistan",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Tajikistan",
+        "Format": "2",
+        "Gender": "1",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Myanmar",
+        "Format": "1",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Iraq",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "3"
+    },
+    {
+        "Sport": "United Arab Emirates",
+        "Format": "5",
+        "Gender": "5",
+        "Rank": "10"
+    },
+    {
+        "Sport": "Jordan",
+        "Format": "0",
+        "Gender": "5",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Bangladesh",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Laos",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Sri Lanka",
+        "Format": "1",
+        "Gender": "2",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Afghanistan",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Lebanon",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Cambodia",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Nepal",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Syria",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Brunei",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Oman",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Palestine",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Korea (COR)",
+        "Format": "NA",
+        "Gender": "NA",
+        "Rank": "NA"
+    },
+    {
+        "Sport": "Bhutan",
+        "Format": "NA",
+        "Gender": "NA",
+        "Rank": "NA"
+    },
+    {
+        "Sport": "Maldives",
+        "Format": "NA",
+        "Gender": "NA",
+        "Rank": "NA"
+    },
+    {
+        "Sport": "East Timor",
+        "Format": "NA",
+        "Gender": "NA",
+        "Rank": "NA"
+    },
+    {
+        "Sport": "Yemen",
+        "Format": "NA",
+        "Gender": "NA",
+        "Rank": "NA"
+    },
+    {
+        "Sport": "Team",
+        "Format": "Played",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "NZ",
+        "Format": "9",
+        "Gender": "5",
+        "Rank": "4"
+    },
+    {
+        "Sport": "SA",
+        "Format": "9",
+        "Gender": "7",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Pak",
+        "Format": "9",
+        "Gender": "4",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Ban",
+        "Format": "9",
+        "Gender": "2",
+        "Rank": "7"
+    },
+    {
+        "Sport": "Ind",
+        "Format": "9",
+        "Gender": "9",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Aus",
+        "Format": "9",
+        "Gender": "7",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Afg",
+        "Format": "9",
+        "Gender": "4",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Ned",
+        "Format": "9",
+        "Gender": "2",
+        "Rank": "7"
+    },
+    {
+        "Sport": "SL",
+        "Format": "9",
+        "Gender": "2",
+        "Rank": "7"
+    },
+    {
+        "Sport": "Eng",
+        "Format": "9",
+        "Gender": "3",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Team",
+        "Format": "M",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "LSG",
+        "Format": "14",
+        "Gender": "7",
+        "Rank": "7"
+    },
+    {
+        "Sport": "KKR",
+        "Format": "14",
+        "Gender": "9",
+        "Rank": "3"
+    },
+    {
+        "Sport": "GT",
+        "Format": "14",
+        "Gender": "5",
+        "Rank": "7"
+    },
+    {
+        "Sport": "MI",
+        "Format": "14",
+        "Gender": "4",
+        "Rank": "10"
+    },
+    {
+        "Sport": "DC",
+        "Format": "14",
+        "Gender": "7",
+        "Rank": "7"
+    },
+    {
+        "Sport": "RR",
+        "Format": "14",
+        "Gender": "8",
+        "Rank": "5"
+    },
+    {
+        "Sport": "RCB",
+        "Format": "14",
+        "Gender": "7",
+        "Rank": "7"
+    },
+    {
+        "Sport": "SRH",
+        "Format": "14",
+        "Gender": "8",
+        "Rank": "5"
+    },
+    {
+        "Sport": "CSK",
+        "Format": "14",
+        "Gender": "7",
+        "Rank": "7"
+    },
+    {
+        "Sport": "PBKS",
+        "Format": "14",
+        "Gender": "5",
+        "Rank": "9"
+    },
+    {
+        "Sport": "Player",
+        "Format": "Round",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "Fabiano Caruana",
+        "Format": "14",
+        "Gender": "4",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Hikaru Nakamura",
+        "Format": "14",
+        "Gender": "5",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Alireza Firouzja",
+        "Format": "14",
+        "Gender": "2",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Ian Nepomniachtchi",
+        "Format": "14",
+        "Gender": "3",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Praggnanandhaa",
+        "Format": "14",
+        "Gender": "3",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Gukesh D",
+        "Format": "14",
+        "Gender": "5",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Vidit",
+        "Format": "14",
+        "Gender": "3",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Nijat Abasov",
+        "Format": "14",
+        "Gender": "0",
+        "Rank": "7"
+    },
+    {
+        "Sport": "Player",
+        "Format": "Round",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "Gukesh Dommaraju",
+        "Format": "9",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Fabiano Caruana",
+        "Format": "9",
+        "Gender": "2",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Wesley So",
+        "Format": "9",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "MVL",
+        "Format": "9",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Ian Nepomniachtchi",
+        "Format": "9",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Anish Giri",
+        "Format": "9",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Nodirbek A",
+        "Format": "9",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Praggnanandhaa R",
+        "Format": "9",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Bogdan-Daniel Deac",
+        "Format": "9",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Alireza Firouzja",
+        "Format": "9",
+        "Gender": "2",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Player",
+        "Format": "Round",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "Fabiano Caruana",
+        "Format": "27",
+        "Gender": "16",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Wesley So",
+        "Format": "27",
+        "Gender": "11",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Maxime Vachier-Lagrave",
+        "Format": "27",
+        "Gender": "13",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Alireza Firouzja",
+        "Format": "27",
+        "Gender": "14",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Ian Nepomniachtchi",
+        "Format": "27",
+        "Gender": "8",
+        "Rank": "8"
+    },
+    {
+        "Sport": "Levon Aronian",
+        "Format": "27",
+        "Gender": "7",
+        "Rank": "11"
+    },
+    {
+        "Sport": "Gukesh D",
+        "Format": "27",
+        "Gender": "6",
+        "Rank": "14"
+    },
+    {
+        "Sport": "Anish Giri",
+        "Format": "27",
+        "Gender": "3",
+        "Rank": "9"
+    },
+    {
+        "Sport": "Vidit Gujrathi",
+        "Format": "27",
+        "Gender": "5",
+        "Rank": "14"
+    },
+    {
+        "Sport": "Ivan Saric",
+        "Format": "27",
+        "Gender": "5",
+        "Rank": "15"
+    },
+    {
+        "Sport": "Team",
+        "Format": "Gold",
+        "Gender": "Silver",
+        "Rank": "Bronze"
+    },
+    {
+        "Sport": "USA",
+        "Format": "39",
+        "Gender": "44",
+        "Rank": "42"
+    },
+    {
+        "Sport": "China",
+        "Format": "40",
+        "Gender": "27",
+        "Rank": "24"
+    },
+    {
+        "Sport": "ROC",
+        "Format": "NA",
+        "Gender": "NA",
+        "Rank": "NA"
+    },
+    {
+        "Sport": "Great Britain",
+        "Format": "14",
+        "Gender": "22",
+        "Rank": "29"
+    },
+    {
+        "Sport": "Japan",
+        "Format": "20",
+        "Gender": "12",
+        "Rank": "13"
+    },
+    {
+        "Sport": "Australia",
+        "Format": "18",
+        "Gender": "19",
+        "Rank": "16"
+    },
+    {
+        "Sport": "Italy",
+        "Format": "12",
+        "Gender": "13",
+        "Rank": "15"
+    },
+    {
+        "Sport": "Germany",
+        "Format": "12",
+        "Gender": "13",
+        "Rank": "8"
+    },
+    {
+        "Sport": "Netherlands",
+        "Format": "15",
+        "Gender": "7",
+        "Rank": "12"
+    },
+    {
+        "Sport": "France",
+        "Format": "16",
+        "Gender": "25",
+        "Rank": "22"
+    },
+    {
+        "Sport": "Canada",
+        "Format": "9",
+        "Gender": "7",
+        "Rank": "11"
+    },
+    {
+        "Sport": "Brazil",
+        "Format": "3",
+        "Gender": "7",
+        "Rank": "10"
+    },
+    {
+        "Sport": "New Zealand",
+        "Format": "10",
+        "Gender": "7",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Hungary",
+        "Format": "6",
+        "Gender": "7",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Republic of Korea",
+        "Format": "13",
+        "Gender": "9",
+        "Rank": "10"
+    },
+    {
+        "Sport": "Ukraine",
+        "Format": "3",
+        "Gender": "5",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Spain",
+        "Format": "5",
+        "Gender": "4",
+        "Rank": "9"
+    },
+    {
+        "Sport": "Cuba",
+        "Format": "2",
+        "Gender": "1",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Poland",
+        "Format": "1",
+        "Gender": "4",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Switzerland",
+        "Format": "1",
+        "Gender": "2",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Turkiye",
+        "Format": "0",
+        "Gender": "3",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Chinese Taipei",
+        "Format": "2",
+        "Gender": "0",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Czechia",
+        "Format": "3",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Denmark",
+        "Format": "2",
+        "Gender": "2",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Kenya",
+        "Format": "4",
+        "Gender": "2",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Jamaica",
+        "Format": "1",
+        "Gender": "3",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Sweden",
+        "Format": "4",
+        "Gender": "4",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Serbia",
+        "Format": "3",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Norway",
+        "Format": "4",
+        "Gender": "1",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Croatia",
+        "Format": "2",
+        "Gender": "2",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Georgia",
+        "Format": "3",
+        "Gender": "3",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Kazakhstan",
+        "Format": "1",
+        "Gender": "3",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Iran",
+        "Format": "3",
+        "Gender": "6",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Belgium",
+        "Format": "3",
+        "Gender": "1",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Belarus",
+        "Format": "NA",
+        "Gender": "NA",
+        "Rank": "NA"
+    },
+    {
+        "Sport": "India",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Austria",
+        "Format": "2",
+        "Gender": "0",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Azerbaijan",
+        "Format": "2",
+        "Gender": "2",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Bulgaria",
+        "Format": "3",
+        "Gender": "1",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Hong Kong",
+        "Format": "2",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Egypt",
+        "Format": "1",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Slovenia",
+        "Format": "2",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Uzbekistan",
+        "Format": "8",
+        "Gender": "2",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Indonesia",
+        "Format": "2",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Colombia",
+        "Format": "0",
+        "Gender": "3",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Dominican Republic",
+        "Format": "1",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Greece",
+        "Format": "1",
+        "Gender": "1",
+        "Rank": "6"
+    },
+    {
+        "Sport": "Uganda",
+        "Format": "1",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Ireland",
+        "Format": "4",
+        "Gender": "0",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Israel",
+        "Format": "1",
+        "Gender": "5",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Romania",
+        "Format": "3",
+        "Gender": "4",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Venezuela",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Philippines",
+        "Format": "2",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Slovakia",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Ethiopia",
+        "Format": "1",
+        "Gender": "3",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Portugal",
+        "Format": "1",
+        "Gender": "2",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Armenia",
+        "Format": "0",
+        "Gender": "3",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Mongolia",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Mexico",
+        "Format": "0",
+        "Gender": "3",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Ecuador",
+        "Format": "1",
+        "Gender": "2",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Qatar",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "South Africa",
+        "Format": "1",
+        "Gender": "3",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Kyrgyzstan",
+        "Format": "0",
+        "Gender": "2",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Argentina",
+        "Format": "1",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "San Marino",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Bahamas",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Kosovo",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Tunisia",
+        "Format": "1",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Estonia",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Fiji",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Latvia",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Thailand",
+        "Format": "1",
+        "Gender": "3",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Jordan",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Malaysia",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Nigeria",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Finland",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Bermuda",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Morocco",
+        "Format": "1",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Puerto Rico",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Bahrain",
+        "Format": "2",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Lithuania",
+        "Format": "0",
+        "Gender": "2",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Namibia",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "North Macedonia",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Saudi Arabia",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Turkmenistan",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Botswana",
+        "Format": "1",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Burkina Faso",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Cote d'Ivoire",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Ghana",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Grenada",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Kuwait",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Republic of Moldova",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Syria",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Tajikistan",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Chile",
+        "Format": "1",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Saint Lucia",
+        "Format": "1",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Guatemala",
+        "Format": "1",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Albania",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Dominica",
+        "Format": "1",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Pakistan",
+        "Format": "1",
+        "Gender": "0",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Cyprus",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Panama",
+        "Format": "0",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Cape Verde",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Refugee Olympic Team",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Peru",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Singapore",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Zambia",
+        "Format": "0",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Algeria",
+        "Format": "2",
+        "Gender": "0",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Player",
+        "Format": "Round",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "Anna Muzychuk",
+        "Format": "9",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Mariya Muzychuk",
+        "Format": "9",
+        "Gender": "1",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Bibisara Assaubayeva",
+        "Format": "9",
+        "Gender": "2",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Stavroula Tsolakidou",
+        "Format": "9",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Nana Dzagnidze",
+        "Format": "9",
+        "Gender": "2",
+        "Rank": "1"
+    },
+    {
+        "Sport": "Lela Javakhishvili",
+        "Format": "9",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Alina Kashlinskaya",
+        "Format": "9",
+        "Gender": "3",
+        "Rank": "0"
+    },
+    {
+        "Sport": "Alexandra Kosteniuk",
+        "Format": "9",
+        "Gender": "1",
+        "Rank": "2"
+    },
+    {
+        "Sport": "Vaishali Rameshbabu",
+        "Format": "9",
+        "Gender": "2",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Sarasadat K",
+        "Format": "9",
+        "Gender": "1",
+        "Rank": "5"
+    },
+    {
+        "Sport": "Team",
+        "Format": "Round",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "AG",
+        "Format": "10",
+        "Gender": "4",
+        "Rank": "6"
+    },
+    {
+        "Sport": "UMM",
+        "Format": "10",
+        "Gender": "3",
+        "Rank": "7"
+    },
+    {
+        "Sport": "ASGP",
+        "Format": "10",
+        "Gender": "6",
+        "Rank": "4"
+    },
+    {
+        "Sport": "GG",
+        "Format": "10",
+        "Gender": "3",
+        "Rank": "7"
+    },
+    {
+        "Sport": "PBG",
+        "Format": "10",
+        "Gender": "8",
+        "Rank": "2"
+    },
+    {
+        "Sport": "TCK",
+        "Format": "10",
+        "Gender": "6",
+        "Rank": "4"
+    },
+    {
+        "Sport": "Player",
+        "Format": "Round",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "GM Arjun Erigaisi",
+        "Format": "7",
+        "Gender": "3",
+        "Rank": "1"
+    },
+    {
+        "Sport": "GM Maxime Vachier-Lagrave",
+        "Format": "7",
+        "Gender": "1",
+        "Rank": "2"
+    },
+    {
+        "Sport": "GM Amin Tabatabaei",
+        "Format": "7",
+        "Gender": "2",
+        "Rank": "1"
+    },
+    {
+        "Sport": "GM Aravindh Chithambaram",
+        "Format": "7",
+        "Gender": "2",
+        "Rank": "0"
+    },
+    {
+        "Sport": "GM Levon Aronian",
+        "Format": "7",
+        "Gender": "2",
+        "Rank": "0"
+    },
+    {
+        "Sport": "GM Alexey Sarana",
+        "Format": "7",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "GM Vidit Gujrathi",
+        "Format": "7",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "GM Parham Maghsoodloo",
+        "Format": "7",
+        "Gender": "1",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Player",
+        "Format": "Round",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "GM D. Gukesh",
+        "Format": "13",
+        "Gender": "5",
+        "Rank": "1"
+    },
+    {
+        "Sport": "GM R. Praggnanandhaa",
+        "Format": "13",
+        "Gender": "6",
+        "Rank": "2"
+    },
+    {
+        "Sport": "GM Arjun Erigaisi",
+        "Format": "13",
+        "Gender": "2",
+        "Rank": "4"
+    },
+    {
+        "Sport": "GM P. Harikrishna",
+        "Format": "13",
+        "Gender": "3",
+        "Rank": "3"
+    },
+    {
+        "Sport": "GM Leon Mendonca",
+        "Format": "13",
+        "Gender": "1",
+        "Rank": "4"
+    },
+    {
+        "Sport": "GM Wei Yi",
+        "Format": "13",
+        "Gender": "1",
+        "Rank": "0"
+    },
+    {
+        "Sport": "GM Anish Giri",
+        "Format": "13",
+        "Gender": "2",
+        "Rank": "1"
+    },
+    {
+        "Sport": "GM Vincent Keymer",
+        "Format": "13",
+        "Gender": "2",
+        "Rank": "3"
+    },
+    {
+        "Sport": "GM Jorden Van Foreest",
+        "Format": "13",
+        "Gender": "0",
+        "Rank": "2"
+    },
+    {
+        "Sport": "GM Alexey Sarana",
+        "Format": "13",
+        "Gender": "1",
+        "Rank": "3"
+    },
+    {
+        "Sport": "GM Fabiano Caruana",
+        "Format": "13",
+        "Gender": "2",
+        "Rank": "3"
+    },
+    {
+        "Sport": "GM N. Abdusattorov",
+        "Format": "13",
+        "Gender": "4",
+        "Rank": "1"
+    },
+    {
+        "Sport": "GM Max Warmerdam",
+        "Format": "13",
+        "Gender": "2",
+        "Rank": "6"
+    },
+    {
+        "Sport": "GM Vladimir Fedoseev",
+        "Format": "13",
+        "Gender": "5",
+        "Rank": "3"
+    },
+    {
+        "Sport": "Team",
+        "Format": "M",
+        "Gender": "W",
+        "Rank": "L"
+    },
+    {
+        "Sport": "LSG",
+        "Format": "12",
+        "Gender": "5",
+        "Rank": "7"
+    },
+    {
+        "Sport": "KKR",
+        "Format": "13",
+        "Gender": "5",
+        "Rank": "6"
+    },
+    {
+        "Sport": "GT",
+        "Format": "12",
+        "Gender": "9",
+        "Rank": "3"
+    },
+    {
+        "Sport": "MI",
+        "Format": "13",
+        "Gender": "8",
+        "Rank": "5"
+    },
+    {
+        "Sport": "DC",
+        "Format": "13",
+        "Gender": "6",
+        "Rank": "6"
+    },
+    {
+        "Sport": "RR",
+        "Format": "14",
+        "Gender": "4",
+        "Rank": "10"
+    },
+    {
+        "Sport": "RCB",
+        "Format": "12",
+        "Gender": "8",
+        "Rank": "3"
+    },
+    {
+        "Sport": "SRH",
+        "Format": "12",
+        "Gender": "4",
+        "Rank": "7"
+    },
+    {
+        "Sport": "CSK",
+        "Format": "13",
+        "Gender": "3",
+        "Rank": "10"
+    },
+    {
+        "Sport": "PBKS",
+        "Format": "12",
+        "Gender": "8",
+        "Rank": "3"
+    }
+]

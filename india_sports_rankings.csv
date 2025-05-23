@@ -1,0 +1,482 @@
+Sport,Format,Gender,Rank
+Sport,Format,Gender,Rank
+Cricket,T20,Men,1
+Cricket,ODI,Men,3
+Cricket,Test,Men,3
+Cricket,ODI,Women,3
+Cricket,T20,Women,3
+Badminton,Singles,Men,30
+Badminton,Doubles,Men,16
+Badminton,Doubles,Mixed,24
+Badminton,Singles,Women,27
+Football,Standard,Men,126
+Football,Standard,Women,69
+Tennis,Singles,Men,98
+Tennis,Doubles,Men,15
+Tennis,Singles,Women,284
+Tennis,Doubles,Women,146
+Hockey,Standard,Men,5
+Hockey,Standard,Women,9
+Volleyball,Standard,Men,70
+Volleyball,Standard,Women,59
+Basketball,Standard,Men,78
+Basketball,Standard,Women,77
+Baseball,Standard,Men,69
+Baseball,Standard,Women,15
+Softball,Standard,Men,26
+Softball,Standard,Women,55
+Rugby,Standard,Men,89
+Rugby,Standard,Women,50
+Chess,Classical,Men,4
+Chess,Rapid,Men,13
+Chess,Blitz,Men,13
+Chess,Classical,Women,6
+Chess,Rapid,Women,10
+Chess,Blitz,Women,11
+Snooker,Standard,Men,70
+Billiards,Standard,Men,12
+Squash,Singles,Men,32
+Squash,Singles,Women,68
+Table Tennis,Singles,Men,38
+Table Tennis,Doubles,Men,10
+Table Tennis,Singles,Women,22
+Table Tennis,Doubles,Women,12
+Golf,Standard,Men,215
+Kabaddi,Standard,Men,1
+Badminton,Doubles,Women,8
+Table Tennis,Doubles,Mixed,14
+Hero,Instagram Followers,Insta Profile,Rank
+Mohan Babu,10.6 K,Mohan Babu Insta Profile,57
+Nara Rohith,37.1 K,Nara Rohith Insta Profile,55
+Srikanth,134 K,Srikanth Insta Profile,52
+Sumanth Prabhas,367 K,Sumanth Prabhas Insta Profile,45
+Sumanth,169 K,Sumanth Insta Profile,51
+Nag Ashwin,349 K,Nag Ashwin Insta Profile,42
+Sree Vishnu,362 K,Sree Vishnu Insta Profile,46
+Allari Naresh,310 K,Allari Naresh Insta Profile,44
+Varun Sandesh,340 K,Varun Sandesh Insta Profile,43
+Raj Tarun,422 K,Raj Tarun Insta Profile,40
+Sunil,416 K,Sunil Insta Profile,41
+Gopichand,543 K,Gopichand Insta Profile,39
+Jagapathi Babu,998 K,Jagapathi Babu Insta Profile,29
+Vaishnav Tej,632 K,Vaishnav Tej Insta Profile,38
+Satyadev,674 K,Satyadev Insta Profile,37
+Manchu Manoj,734 K,Manchu Manoj Insta Profile,35
+Sudheer Babu,786 K,Sudheer Babu Insta Profile,34
+Priyadarshi,940 K,Priyadarshi Insta Profile,30
+Naga Shourya,923 K,Naga Shourya Insta Profile,31
+Siddharth,1.6 M,Siddharth Insta Profile,22
+Allu Sirish,1 M,Allu Sirish Insta Profile,28
+Adivi Sesh,1.1 M,Adivi Sesh Insta Profile,26
+Vishwak Sen,1.4 M,Vishwak Sen Insta Profile,24
+Bellamkonda Sreenivas,1.1 M,Bellamkonda Sreenivas Insta Profile,27
+Sharwanand,1.4 M,Sharwanand Insta Profile,23
+Venkatesh Daggubati,1.7 M,Venkatesh Insta Profile,21
+Nikhil Siddhartha,2.2 M,Nikhil Siddhartha Insta Profile,20
+Pawan Kalyan,3.8 M,Pawan Kalyan Insta Profile,13
+Sundeep Kishan,3.7 M,Sundeep Kishan Insta Profile,14
+Ravi Teja,2.3 M,Ravi Teja Insta Profile,19
+Nithiin,2.7 M,Nithiin Insta Profile,18
+Manchu Vishnu,8.4 M,Manchu Vishnu Insta Profile,6
+Chiranjeevi,3.3 M,Chiranjeevi Insta Profile,16
+Sai Dharam Tej,3.8 M,Sai Dharam Tej Insta Profile,12
+Varun Tej Konidela,3.6 M,Varun Tej Insta Profile,15
+Akhil Akkineni,3.1 M,Akhil Akkineni Insta Profile,17
+Ram Pothineni,4 M,Ram Pothineni Insta Profile,11
+Rana Daggubati,5.2 M,Rana Daggubati Insta Profile,10
+Nani,7.8 M,Nani Insta Profile,8
+Jr NTR,8 M,Jr NTR Insta Profile,7
+Naga Chaitanya,7.4 M,Naga Chaitanya Insta Profile,9
+Prabhas Raju,13 M,Prabhas Insta Profile,5
+Mahesh Babu,14.5 M,Mahesh Babu Insta Profile,4
+Ram Charan,26 M,Ram Charan Insta Profile,2
+Vijay Deverakonda,22 M,Vijay Insta Profile,3
+Allu Arjun,28.6,Allu Arjun Insta Profile,1
+Naveen Polishetty,1.2 M,Naveen Polishetty Insta Profile,25
+Kartikeya,895 K,Kartikeya Insta Profile,32
+Navdeep,804 K,Navdeep Insta Profile,33
+Nandu,711 K,Nandu Insta Profile,36
+Aadi,291 K,Aadi Insta Profile,48
+Tharun,206 K,Tharun Insta Profile,50
+Akash Puri,209 K,Akash Puri Insta Profile,49
+Aadarsh,69.1 K,Aadarsh Insta Profile,53
+Kalyan Ram Nandamuri,45.9 K,Kalyan Ram Insta Profile,54
+Ganesh Bellamkonda,14.2 K,Ganesh Insta Profile,56
+Ashwin Babu,302 K,Ashwin Insta Profile,47
+Heroine,Instagram Followers,Insta Profile,Rank
+Saloni Aswani,62.7 K,Saloni Aswani Insta Profile,79
+Sakshi Chaudhary,184 K,Sakshi Chaudhary Insta Profile,77
+Abhinayashree,206 K,Abhinayashree Insta Profile,76
+Sonia Agarwal,332 K,Sonia Agarwal Insta Profile,73
+Amala Akkineni,257 K,Amala Akkineni Insta Profile,75
+Isha Chawla,307 K,Isha Chawla Insta Profile,74
+Priya Vadlamani,364 K,Priya Vadlamani Insta Profile,72
+Rambha,796 K,Rambha Insta Profile,69
+Sridevi Vijaykumar,972 K,Sridevi Vijaykumar Insta Profile,67
+Meenakshi Dixit,1.0 M,Meenakshi Dixit Insta Profile,63
+Renu Desai,1.1 M,Renu Desai Insta Profile,59
+Faria Abdullah,1.0 M,Faria Abdullah Insta Profile,64
+Sneha Ullal,1.0 M,Sneha Ullal Insta Profile,65
+Meenakshi Chaudhary,2.3 M,Meenakshi Chaudhary Insta Profile,38
+Nayanthara,9.8 M,Nayanthara Insta Profile,16
+Meera Jasmine,1.0 M,Meera Jasmine Insta Profile,61
+Monal Gajjar,944 K,Monal Gajjar Insta Profile,68
+Asin,1.0 M,Asin Insta Profile,62
+Bindu Madhavi,1.1 M,Bindu Madhavi Insta Profile,60
+Sridevi,999 K,Sridevi Insta Profile,66
+Divi Vadthya,1.2 M,Divi Vadthya Insta Profile,58
+Abhirami,1.2 M,Abhirami Insta Profile,57
+Priya Anand,1.2 M,Priya Anand Insta Profile,55
+Ramya Krishnan,1.8 M,Ramya Krishnan Insta Profile,46
+Nisha Agarwal,1.2 M,Nisha Agarwal Insta Profile,56
+Meena Sagar,1.7 M,Meena Sagar Insta Profile,48
+Anasuya Bharadwaj,1.6 M,Anasuya Bharadwaj Insta Profile,51
+Bhumika Chawla,1.7 M,Bhumika Chawla Insta Profile,49
+Varsha Bollamma,1.7 M,Varsha Bollamma Insta Profile,50
+Priyamani,2.3 M,Priyamani Insta Profile,37
+Hebah Patel,1.8 M,Hebah Patel Insta Profile,47
+Sneha Prasanna,2.2 M,Sneha Prasanna Insta Profile,40
+Catherine Tresa,1.9 M,Catherine Tresa Insta Profile,45
+Anjali,2.0 M,Anjali Insta Profile,44
+Anu Emmanuel,2.0 M,Anu Emmanuel Insta Profile,43
+Shalini Pandey,2.1 M,Shalini Pandey Insta Profile,42
+Ritu Varma,2.2 M,Ritu Varma Insta Profile,39
+Regina Cassandra,2.2 M,Regina Cassandra Insta Profile,41
+Shraddha Das,2.9 M,Shraddha Das Insta Profile,35
+Aishwarya Rajesh,3.2 M,Aishwarya Rajesh Insta Profile,33
+Lavanya Tripathi,3.6 M,Lavanya Tripathi Insta Profile,32
+Mehreen Pirzada,3.2 M,Mehreen Pirzada Insta Profile,34
+Megha Akash,4.0 M,Megha Akash Insta Profile,31
+Nivetha Pethuraj,4.1 M,Nivetha Pethuraj Insta Profile,30
+Payal Rajput,4.2 M,Payal Rajput Insta Profile,29
+Sonali Bendre,4.6 M,Sonali Bendre Insta Profile,28
+Shriya Saran,4.6 M,Shriya Saran Insta Profile,27
+Nithya Menen,4.7 M,Nithya Menen Insta Profile,26
+Sonal Chauhan,7.9 M,Sonal Chauhan Insta Profile,20
+Hansika Motwani,6.9 M,Hansika Motwani Insta Profile,25
+Krithi Shetty,8.8 M,Krithi Shetty Insta Profile,17
+Trisha Krishnan,7.5 M,Trisha Krishnan Insta Profile,21
+Anushka Shetty,7.0 M,Anushka Shetty Insta Profile,24
+Nivetha Thomas,7.1 M,Nivetha Thomas Insta Profile,23
+Nazriya Nazim,8.4 M,Nazriya Nazim Insta Profile,19
+Sai Pallavi,10.2 M,Sai Pallavi Insta Profile,15
+Raashii Khanna,11.5 M,Raashii Khanna Insta Profile,14
+Genelia D'Souza,14.5 M,Genelia D'Souza Insta Profile,13
+Anupama Parameswaran,16.2 M,Anupama Parameswaran Insta Profile,11
+Keerthy Suresh,18.5 M,Keerthy Suresh Insta Profile,10
+Ileana D'Cruz,16.0 M,Ileana D'Cruz Insta Profile,12
+Taapsee Pannu,20.7 M,Taapsee Pannu Insta Profile,9
+Tamannaah Bhatia,27.9 M,Tamannaah Bhatia Insta Profile,4
+Rakul Preet Singh,23.7 M,Rakul Preet Singh Insta Profile,8
+Shruti Haasan,24.1 M,Shruti Haasan Insta Profile,7
+Pooja Hegde,27.6 M,Pooja Hegde Insta Profile,5
+Kajal Aggarwal,26.8 M,Kajal Aggarwal Insta Profile,6
+Nidhhi Agerwal,30.2 M,Nidhhi Agerwal Insta Profile,3
+Samantha Ruth Prabhu,36.7 M,Samantha Ruth Prabhu Insta Profile,2
+Rashmika Mandanna,45.2 M,Rashmika Mandanna Insta Profile,1
+Sreeleela,8.7 M,Sreeleela Insta Profile,18
+Ananya Nagalla,1.5 M,Ananya Nagalla Insta Profile,52
+Vaishnavi Chaitanya,1.5 M,Vaishnavi Chaitanya Insta Profile,53
+Neha Shetty,1.4 M,Neha Shetty Insta Profile,54
+Sobhita Dhulipala,7.1 M,Sobhita Dhulipala Insta Profile,22
+Niharika Konidela,2.4 M,Niharika Konidela Insta Profile,36
+Swathi,731 K,Swathi Insta Profile,70
+Sai Dhanshika,582 K,Sai Dhanshika Insta Profile,71
+Sayali Bhagat,147 K,Sayali Bhagat Insta Profile,78
+IPL Team,Instagram Followers,Insta Profile,Rank
+Lucknow Super Gaints (LSG),3.3 M,LSG Insta Page,10
+Punjab Kings (PBKS),3.4 M,Punjab Kings Insta Page,9
+Rajasthan Royals (RR),4.52 M,Rajasthan Royals Insta Page,5
+Delhi Capitals (DC),4.0 M,Delhi Capitals Insta Page,8
+Sunrisers Hyderabad (SRH),4.51 M,SRH Insta Page,6
+Gujarat Titans (GT),4.2 M,Gujarat Titans Insta Page,7
+Kolkata Knight Riders (KKR),6.5 M,KKR Insta Page,4
+Royal Challengers Bangalore (RCB),15.9 M,RCB Insta Page,2
+Mumbai Indians (MI),14.8 M,Mumbai Indians Insta Page,3
+Chennai Super Kings (CSK),16.6 M,CSK Insta Page,1
+Sport,Format,Player,Rank
+Badminton,Singles,Lakshya Sen,12
+Badminton,Doubles,"Satwiksairaj Rankireddy, Chirag Shetty",9
+Tennis,Singles,Sumit Nagal,98
+Tennis,Doubles,Rohan Bopanna,15
+Snooker,Standard,Ishpreet Singh Chadha,70
+Billiards,Standard,Dhruv Sitwala,8
+Squash,Singles,Ramit Tandon,32
+Table Tennis,Singles,Sharath Achanta,38
+Table Tennis,Doubles,"Manav Vikash Thakkar, Manush Utpalbhai Shah",10
+Chess,Classical,Arjun Erigaisi,4
+Chess,Rapid,Viswanathan Anand,13
+Chess,Blitz,Viswanathan Anand,13
+Golf,Standard,Shubhankar Sharma,215
+Cricket,T20 (Batter),Tilak Varma,3
+Cricket,T20 (Allrounder),Hardik Pandya,1
+Cricket,T20 (Bowler),Ravi Bishnoi,5
+Cricket,ODI (Batter),Rohit Sharma,2
+Cricket,ODI (Bowler),Kuldeep Yadav,2
+Cricket,ODI (Allrounder),Ravindra Jadeja,12
+Cricket,Test (Batter),Yashasvi Jaiswal,4
+Cricket,Test (Bowler),Jasprit Bumrah,1
+Cricket,Test (Allrounder),Ravindra Jadeja,1
+Athletics,Javelin Throw,Neeraj Chopra,2
+Country,Gold,Silver,Bronze
+China,201,111,71
+South Korea,42,59,89
+Japan,52,67,69
+Kazakhstan,10,22,48
+Iran,13,21,20
+India,28,38,41
+Chinese Taipei,19,20,28
+Thailand,12,14,32
+Uzbekistan,22,18,31
+Hong Kong,8,16,29
+North Korea,11,18,10
+Vietnam,3,5,19
+Malaysia,6,8,18
+Singapore,3,6,7
+Mongolia,3,5,13
+Indonesia,7,11,18
+Bahrain,12,3,5
+Philippines,4,2,12
+Qatar,5,6,3
+Kuwait,3,4,4
+Saudi Arabia,4,2,4
+Macau,1,3,2
+Kyrgyzstan,4,2,9
+Turkmenistan,0,1,6
+Pakistan,0,1,2
+Tajikistan,2,1,4
+Myanmar,1,0,2
+Iraq,0,0,3
+United Arab Emirates,5,5,10
+Jordan,0,5,4
+Bangladesh,0,0,2
+Laos,0,0,3
+Sri Lanka,1,2,2
+Afghanistan,0,1,4
+Lebanon,0,0,1
+Cambodia,0,0,1
+Nepal,0,1,1
+Syria,0,0,1
+Brunei,0,1,1
+Oman,0,1,1
+Palestine,0,0,1
+Korea (COR),NA,NA,NA
+Bhutan,NA,NA,NA
+Maldives,NA,NA,NA
+East Timor,NA,NA,NA
+Yemen,NA,NA,NA
+Team,Played,W,L
+NZ,9,5,4
+SA,9,7,2
+Pak,9,4,5
+Ban,9,2,7
+Ind,9,9,0
+Aus,9,7,2
+Afg,9,4,5
+Ned,9,2,7
+SL,9,2,7
+Eng,9,3,6
+Team,M,W,L
+LSG,14,7,7
+KKR,14,9,3
+GT,14,5,7
+MI,14,4,10
+DC,14,7,7
+RR,14,8,5
+RCB,14,7,7
+SRH,14,8,5
+CSK,14,7,7
+PBKS,14,5,9
+Player,Round,W,L
+Fabiano Caruana,14,4,1
+Hikaru Nakamura,14,5,2
+Alireza Firouzja,14,2,6
+Ian Nepomniachtchi,14,3,0
+Praggnanandhaa,14,3,3
+Gukesh D,14,5,1
+Vidit,14,3,5
+Nijat Abasov,14,0,7
+Player,Round,W,L
+Gukesh Dommaraju,9,1,0
+Fabiano Caruana,9,2,1
+Wesley So,9,0,1
+MVL,9,0,0
+Ian Nepomniachtchi,9,0,0
+Anish Giri,9,1,1
+Nodirbek A,9,0,1
+Praggnanandhaa R,9,1,0
+Bogdan-Daniel Deac,9,0,2
+Alireza Firouzja,9,2,1
+Player,Round,W,L
+Fabiano Caruana,27,16,4
+Wesley So,27,11,4
+Maxime Vachier-Lagrave,27,13,4
+Alireza Firouzja,27,14,5
+Ian Nepomniachtchi,27,8,8
+Levon Aronian,27,7,11
+Gukesh D,27,6,14
+Anish Giri,27,3,9
+Vidit Gujrathi,27,5,14
+Ivan Saric,27,5,15
+Team,Gold,Silver,Bronze
+USA,39,44,42
+China,40,27,24
+ROC,NA,NA,NA
+Great Britain,14,22,29
+Japan,20,12,13
+Australia,18,19,16
+Italy,12,13,15
+Germany,12,13,8
+Netherlands,15,7,12
+France,16,25,22
+Canada,9,7,11
+Brazil,3,7,10
+New Zealand,10,7,3
+Hungary,6,7,6
+Republic of Korea,13,9,10
+Ukraine,3,5,4
+Spain,5,4,9
+Cuba,2,1,6
+Poland,1,4,5
+Switzerland,1,2,5
+Turkiye,0,3,5
+Chinese Taipei,2,0,5
+Czechia,3,0,2
+Denmark,2,2,5
+Kenya,4,2,5
+Jamaica,1,3,2
+Sweden,4,4,3
+Serbia,3,1,1
+Norway,4,1,3
+Croatia,2,2,3
+Georgia,3,3,1
+Kazakhstan,1,3,3
+Iran,3,6,3
+Belgium,3,1,6
+Belarus,NA,NA,NA
+India,0,1,5
+Austria,2,0,3
+Azerbaijan,2,2,3
+Bulgaria,3,1,3
+Hong Kong,2,0,2
+Egypt,1,1,1
+Slovenia,2,1,0
+Uzbekistan,8,2,3
+Indonesia,2,0,1
+Colombia,0,3,1
+Dominican Republic,1,0,2
+Greece,1,1,6
+Uganda,1,1,0
+Ireland,4,0,3
+Israel,1,5,1
+Romania,3,4,2
+Venezuela,0,0,0
+Philippines,2,0,2
+Slovakia,0,0,1
+Ethiopia,1,3,0
+Portugal,1,2,1
+Armenia,0,3,1
+Mongolia,0,1,0
+Mexico,0,3,2
+Ecuador,1,2,2
+Qatar,0,0,1
+South Africa,1,3,2
+Kyrgyzstan,0,2,4
+Argentina,1,1,1
+San Marino,0,0,0
+Bahamas,0,0,0
+Kosovo,0,1,1
+Tunisia,1,1,1
+Estonia,0,0,0
+Fiji,0,1,0
+Latvia,0,0,0
+Thailand,1,3,2
+Jordan,0,1,0
+Malaysia,0,0,2
+Nigeria,0,0,0
+Finland,0,0,0
+Bermuda,0,0,0
+Morocco,1,0,1
+Puerto Rico,0,0,2
+Bahrain,2,1,1
+Lithuania,0,2,2
+Namibia,0,0,0
+North Macedonia,0,0,0
+Saudi Arabia,0,0,0
+Turkmenistan,0,0,0
+Botswana,1,1,0
+Burkina Faso,0,0,0
+Cote d'Ivoire,0,0,1
+Ghana,0,0,0
+Grenada,0,0,2
+Kuwait,0,0,0
+Republic of Moldova,0,1,3
+Syria,0,0,0
+Tajikistan,0,0,3
+Chile,1,1,0
+Saint Lucia,1,1,0
+Guatemala,1,0,1
+Albania,0,0,2
+Dominica,1,0,0
+Pakistan,1,0,0
+Cyprus,0,1,0
+Panama,0,1,0
+Cape Verde,0,0,1
+Refugee Olympic Team,0,0,1
+Peru,0,0,1
+Singapore,0,0,1
+Zambia,0,0,1
+Algeria,2,0,1
+Player,Round,W,L
+Anna Muzychuk,9,1,0
+Mariya Muzychuk,9,1,1
+Bibisara Assaubayeva,9,2,0
+Stavroula Tsolakidou,9,1,0
+Nana Dzagnidze,9,2,1
+Lela Javakhishvili,9,0,2
+Alina Kashlinskaya,9,3,0
+Alexandra Kosteniuk,9,1,2
+Vaishali Rameshbabu,9,2,3
+Sarasadat K,9,1,5
+Team,Round,W,L
+AG,10,4,6
+UMM,10,3,7
+ASGP,10,6,4
+GG,10,3,7
+PBG,10,8,2
+TCK,10,6,4
+Player,Round,W,L
+GM Arjun Erigaisi,7,3,1
+GM Maxime Vachier-Lagrave,7,1,2
+GM Amin Tabatabaei,7,2,1
+GM Aravindh Chithambaram,7,2,0
+GM Levon Aronian,7,2,0
+GM Alexey Sarana,7,0,2
+GM Vidit Gujrathi,7,0,2
+GM Parham Maghsoodloo,7,1,3
+Player,Round,W,L
+GM D. Gukesh,13,5,1
+GM R. Praggnanandhaa,13,6,2
+GM Arjun Erigaisi,13,2,4
+GM P. Harikrishna,13,3,3
+GM Leon Mendonca,13,1,4
+GM Wei Yi,13,1,0
+GM Anish Giri,13,2,1
+GM Vincent Keymer,13,2,3
+GM Jorden Van Foreest,13,0,2
+GM Alexey Sarana,13,1,3
+GM Fabiano Caruana,13,2,3
+GM N. Abdusattorov,13,4,1
+GM Max Warmerdam,13,2,6
+GM Vladimir Fedoseev,13,5,3
+Team,M,W,L
+LSG,12,5,7
+KKR,13,5,6
+GT,12,9,3
+MI,13,8,5
+DC,13,6,6
+RR,14,4,10
+RCB,12,8,3
+SRH,12,4,7
+CSK,13,3,10
+PBKS,12,8,3
