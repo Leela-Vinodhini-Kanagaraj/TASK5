@@ -2,10 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import json
-
 base_url = "https://www.fanrank.org/ranking/india-sports-rankings-"
 all_data = []
-
 for page in range(1, 19):
     url = f"{base_url}{page}"
     print(f"Scraping: {url}")
@@ -32,12 +30,9 @@ for page in range(1, 19):
                 "Gender": gender,
                 "Rank": rank
             })
-
-# Save files
 df = pd.DataFrame(all_data)
 df.to_csv("india_sports_rankings.csv", index=False)
 df.to_excel("india_sports_rankings.xlsx", index=False)
 with open("india_sports_rankings.json", "w") as f:
     json.dump(all_data, f, indent=4)
-
-print("✅ Data saved to CSV, Excel, and JSON.")
+print("Data saved to CSV, Excel, and JSON.")
